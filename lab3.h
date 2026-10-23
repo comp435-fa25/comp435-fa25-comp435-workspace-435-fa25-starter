@@ -2,8 +2,8 @@
  * DO NOT MODIFY THIS HEADER FILE
  */
 
-#ifndef LAB1
-#define LAB1
+#ifndef LAB3
+#define LAB3
 
 #include <stdio.h> 
 #include <stdlib.h> 

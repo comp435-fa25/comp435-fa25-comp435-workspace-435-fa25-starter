@@ -1,4 +1,4 @@
-#include "lab1.h"
+#include "lab3.h"
 
 #define LEN 16 // 128 bits
 
